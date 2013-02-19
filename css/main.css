@@ -8,14 +8,14 @@ body
 
 #main
 {
-    top:10%;
-    left:10%;
-    width:80%;
 }
 
 #mainCanvas
-{
-    width:400px;
-    height:400px;
-    border:1px solid 
+{ 
+    top:10%;
+    left:10%;
+    width:80%;
+    height:80%;
+    border:1px solid #fff;
+    background-color:#f00;
 }
